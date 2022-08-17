@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bocoran-slot-gacor-malam-ini-panen-cuan",
+        "command": "bocoran-slot-gacor-malam-ini-panen-cuan:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bocoran-slot-gacor-malam-ini-panen-cuan",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bocoran-slot-gacor-malam-ini-panen-cuan:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

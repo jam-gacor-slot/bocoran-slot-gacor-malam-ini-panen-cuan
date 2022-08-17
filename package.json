@@ -1,0 +1,23 @@
+{
+  "name": "bocoran-slot-gacor-malam-ini-panen-cuan",
+  "main": "./lib/bocoran-slot-gacor-malam-ini-panen-cuan",
+  "version": "0.0.0",
+  "description": "Bocoran slot gacor malam ini gampang menang maxwin jaminan panen cuan. Dapatkan bonus slot 1juta dan deposit 50% +5% setiap hari di RESTOSLOT4D",
+  "keywords": [
+    "bocoran slot gacor",
+    "slot gacor malam ini",
+    "slot gacor",
+    "bocoran slot gacor malam ini",
+    "bocoran slot online"
+  ],
+  "activationCommands": {
+    "atom-workspace": "bocoran-slot-gacor-malam-ini-panen-cuan:toggle"
+  },
+  "repository": "https://github.com/jam-gacor-slot/bocoran-slot-gacor-malam-ini-panen-cuan",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
